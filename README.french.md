@@ -18,9 +18,9 @@
  <br/>
 
 # Bienvenue! 3 Choses à Savoir Avant Tout:
-**1. En lisant ici, vous lisez un regroupement des meilleurs articles sur Node.js -** il s'agit d'un sommaire entretenu du meilleur contenu concernant les bonnes pratiques Node JS
+**1. Vous lisez ici un regroupement des meilleurs articles sur Node.js -** il s'agit d'un résumé maintenu du meilleur contenu concernant les bonnes pratiques Node JS
 
-**2. Il s'agit du plus grand assemblage d'articles et cela grandit chaque semaine -** actuellement, plus de 50 pratiques, guides de style, et astuces d'architecture sont présentés. De nouvelles Issues et PR sont créées chaque jour pour permettre à cette page d'être à jour. Nous apprécions votre contribution, que cela soit la correction d'erreurs de code ou la suggestion de nouvelles idées brillantes. Voir nos [étapes ici](https://github.com/i0natan/nodebestpractices/milestones?direction=asc&sort=due_date&state=open)
+**2. Il s'agit du plus grand assemblage d'articles et cela s'agrandit chaque semaine -** actuellement, plus de 50 pratiques, guides de style, et astuces d'architecture sont présentés. De nouvelles Issues et PR sont créées chaque jour pour permettre à cette page d'être à jour. Nous apprécions votre contribution, que cela soit la correction d'erreurs de code ou la suggestion de nouvelles idées brillantes. Voir nos [étapes ici](https://github.com/i0natan/nodebestpractices/milestones?direction=asc&sort=due_date&state=open)
 
 **3. La plupart des points abordés ont des informations additionelles -** à côté de chaque point de pratique que vous trouverez **🔗Plus d'Info** redirige vers un lien présentant des exemples de codes, des citations venant de pages sélectionnées et plus encore
 
@@ -90,9 +90,9 @@
 
 <br/><br/><br/>
 
-<p align="right"><a href="#table-of-contents">⬆ Return to top</a></p>
+<p align="right"><a href="#table-of-contents">⬆ Retour Haut de Page</a></p>
 
-# `2. Error Handling Practices`
+# `2. Gestion des Erreurs`
 
 ## ![✔] 2.1  Use Async-Await or promises for async error handling
 
@@ -214,7 +214,7 @@
 
 <br/><br/><br/>
 
-<p align="right"><a href="#table-of-contents">⬆ Return to top</a></p>
+<p align="right"><a href="#table-of-contents">⬆ Retour Haut de Page</a></p>
 
 # `3. Code Style Practices`
 
@@ -384,7 +384,7 @@ All statements above will return false if used with `===`
 
 <br/><br/><br/>
 
-<p align="right"><a href="#table-of-contents">⬆ Return to top</a></p>
+<p align="right"><a href="#table-of-contents">⬆ Retour Haut de Page</a></p>
 
 
 # `4. Testing And Overall Quality Practices`
@@ -460,7 +460,7 @@ All statements above will return false if used with `===`
 
 <br/><br/><br/>
 
-<p align="right"><a href="#table-of-contents">⬆ Return to top</a></p>
+<p align="right"><a href="#table-of-contents">⬆ Retour Haut de Page</a></p>
 
 # `5. Going To Production Practices`
 ## ![✔] 5.1. Monitoring!
@@ -647,7 +647,7 @@ All statements above will return false if used with `===`
 
 <br/><br/><br/>
 
-<p align="right"><a href="#table-of-contents">⬆ Return to top</a></p>
+<p align="right"><a href="#table-of-contents">⬆ Retour Haut de Page</a></p>
 
 # `Security Practices`
 
